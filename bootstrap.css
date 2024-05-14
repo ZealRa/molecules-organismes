@@ -12360,3 +12360,8 @@ a.list-group-item-danger.active:hover, a.list-group-item-danger.active:focus {
 body {
   background: linear-gradient(to right, #ffcccc, #6699ff);
 }
+
+img {
+  height: 500px;
+  width: fit-content;
+}
